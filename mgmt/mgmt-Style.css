@@ -1,0 +1,86 @@
+.site {
+  width: 200px;
+  margin-bottom: 5px;
+  padding: 10px;
+  width: auto;
+  border-radius: 20px;
+  border: 1px solid #1E90FF;
+  background-color: #87CEFA;
+}
+
+html {
+  background-color: grey;
+}
+
+.main {
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.banner {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.text {
+  text-align: center;
+}
+
+.likelihood {
+  margin-left: 24%
+}
+
+.risk {
+  margin-left: 24%
+}
+
+.add {
+  margin-bottom: 10px;
+}
+
+.add-p {
+  text-align: right;
+}
+
+div.supervisor.col.s6 {
+  height: 55px;
+  width: 130px;
+}
+
+div.submit.col.s6 {
+  height: 55px;
+  width: 130px;
+}
+
+#autocomplete-input {
+  width: 330px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 0px;
+}
+
+.message-div {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+/*.my-message {}
+
+.message-box {
+  margin: 0px;
+}*/
+
+.input-box {
+  padding: 0px;
+}
+
+.lbl {
+  width: 10px;
+}
